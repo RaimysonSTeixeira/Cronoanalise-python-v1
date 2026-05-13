@@ -1,0 +1,3 @@
+matplotlib
+# O tkinter já vem por padrão na maioria das instalações do Python, 
+# mas o matplotlib é essencial para gerar o gráfico de Gantt.
